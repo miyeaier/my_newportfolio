@@ -2,19 +2,19 @@
   {
     "id": 1,
     "name": "Lovalot AB",
-    "image": "https://unsplash.com/photos/2LowviVHZ-E",
+    "image": "https://images.unsplash.com/photo-1516980907201-943c13a8d03c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
     "description": "Digital Marketing and Art assistant "
   },
   {
     "id": 2,
     "name": "Dreamify",
-    "image": "https://unsplash.com/photos/eY9nCR7G0xw",
+    "image": "https://images.unsplash.com/photo-1569775931713-52512a1f1b96?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGRyZWFtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
     "description": "Digital Marketing Intern"
   },
   {
     "id": 3,
     "name": "Cafe Koya",
-    "image": "https://unsplash.com/photos/QEoRUN-h5PI",
+    "image": "https://images.unsplash.com/photo-1516097392878-c2b79448e1ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80",
     "description": "Online Marketing"
   }
 ]

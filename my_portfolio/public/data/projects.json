@@ -2,19 +2,19 @@
   {
     "id": 1,
     "name": "My First Website",
-    "image": "https://images.unsplash.com/photo-1589733126193-a91e19b91ce0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+    "image": "https://images.unsplash.com/photo-1600196302476-1790ba2334f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
     "description": "This was my first project,the guy lost,but won the popular vote."
   },
   {
     "id": 2,
     "name": "FizzBuzz",
-    "image": "https://images.unsplash.com/photo-1552503711-1fac14efc47f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
     "description": "making ruyb application feel's not bad."
   },
   {
     "id": 3,
     "name": "ATM",
-    "image": "https://images.unsplash.com/photo-1539622287262-61e066a2c534?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGF0bXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+    "image": "https://images.unsplash.com/photo-1533421644343-45b606745fb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1664&q=80",
     "description": "We designed an ATM logic with real life case scenarios and appropriate response"
   }
 ]
