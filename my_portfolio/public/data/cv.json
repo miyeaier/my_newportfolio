@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Lovalot AB",
+    "image": "https://unsplash.com/photos/2LowviVHZ-E",
+    "description": "Digital Marketing and Art assistant "
+  },
+  {
+    "id": 2,
+    "name": "Dreamify",
+    "image": "https://unsplash.com/photos/eY9nCR7G0xw",
+    "description": "Digital Marketing Intern"
+  },
+  {
+    "id": 3,
+    "name": "Cafe Koya",
+    "image": "https://unsplash.com/photos/QEoRUN-h5PI",
+    "description": "Online Marketing"
+  }
+]
