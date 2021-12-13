@@ -1,6 +1,6 @@
 import React from "react";
 import axios from "axios";
-import ProjectCard from "./ProjectCard";
+import ProjectCard from './ProjectCard';
 import { Component } from "react";
 import { Container, Grid } from "semantic-ui-react";
 
@@ -16,7 +16,6 @@ class Projects extends Component {
       return (
         <div id={`project-${project.id}`} key={project.id}>
           <ProjectCard project={project} />
-          <h3>{project.name}</h3>
         </div>
       );
     });
