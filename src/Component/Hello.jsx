@@ -1,11 +1,18 @@
 import React from "react";
-import { Container } from "semantic-ui-react";
 
 const Hello = () => {
   return (
-    <Container>
-      <h1 id="hello">Hello World</h1>
-    </Container>
+    <div className="ui main container">
+      <div className="GeeksForGeeks">
+        <h1>Hey There</h1>
+        <p1>
+          if you want to know more about me click About me and projects...{" "}
+        </p1>
+        <h2>
+          <i class="handshake outline icon"></i>
+        </h2>
+      </div>
+    </div>
   );
 };
 

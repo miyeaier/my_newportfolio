@@ -14,6 +14,7 @@ class Projects extends Component {
 
     let projectsList = projects.map((project) => {
       return (
+        
         <div id={`project-${project.id}`} key={project.id}>
           <ProjectCard project={project} />
         </div>
@@ -21,8 +22,9 @@ class Projects extends Component {
     });
 
     return (
+    
       <Container>
-        <h1 id="projects-header">My Projects</h1>
+        <h4 id="projects-header">My Projects</h4>
         <Grid>{projectsList}</Grid>
       </Container>
     );

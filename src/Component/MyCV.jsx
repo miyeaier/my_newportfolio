@@ -2,7 +2,7 @@ import React from "react";
 import axios from "axios";
 import CVCard from "./CVCard";
 import { Component } from "react";
-import { Container, Grid, List } from "semantic-ui-react";
+import { Container, Grid } from "semantic-ui-react";
 
 class CV extends Component {
   state = {
@@ -22,7 +22,7 @@ class CV extends Component {
 
     return (
       <Container>
-        <h1 id="cv-header">My CV</h1>
+        <h3 id="cv-header">My CV</h3>
         <Grid>{cvList} </Grid>
       </Container>
     );
