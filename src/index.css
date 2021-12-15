@@ -10,7 +10,7 @@ footer {
   width: 100%;
   height: 60px;
   padding-top: 20px;
-  background-color:white;
+  background-color:w;
   margin-top: 0;
   margin-bottom: 0;
   text-align: center;
@@ -32,7 +32,7 @@ footer {
   background-color:gold;
   background-image: 
   url(
-    "");
+    "https://github.com/miyeaier/my_newportfolio/blob/main/IMG/Untitled%20design%20(2).jpg?raw=true");
   background-size:auto;
   background-position:center;
   background-attachment: fixed;
