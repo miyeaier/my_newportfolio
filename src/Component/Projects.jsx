@@ -1,6 +1,6 @@
 import React from "react";
 import axios from "axios";
-import ProjectCard from './ProjectCard';
+import ProjectCard from "./ProjectCard";
 import { Component } from "react";
 import { Container, Grid } from "semantic-ui-react";
 
@@ -14,7 +14,6 @@ class Projects extends Component {
 
     let projectsList = projects.map((project) => {
       return (
-        
         <div id={`project-${project.id}`} key={project.id}>
           <ProjectCard project={project} />
         </div>
@@ -22,7 +21,6 @@ class Projects extends Component {
     });
 
     return (
-    
       <Container>
         <h4 id="projects-header">My Projects</h4>
         <Grid>{projectsList}</Grid>

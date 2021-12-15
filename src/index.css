@@ -1,16 +1,9 @@
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-
 footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 60px;
   padding-top: 20px;
-  background-color:w;
   margin-top: 0;
   margin-bottom: 0;
   text-align: center;
@@ -18,26 +11,13 @@ footer {
 }
 
 
-
-
-
-
-
-.main.container {
-  margin-top: 4em;
-}
-
-
 .GeeksForGeeks {
-  background-color:gold;
-  background-image: 
-  url(
-    "https://github.com/miyeaier/my_newportfolio/blob/main/IMG/Untitled%20design%20(2).jpg?raw=true");
-  background-size:auto;
-  background-position:center;
+  background-image:
+    url("https://github.com/miyeaier/my_newportfolio/blob/main/IMG/hey%20there%20i%20aM.jpg?raw=true");
+  background-size: auto;
+  background-position: center;
   background-attachment: fixed;
   height: 100vh;
   margin-top: -70px;
-  background-repeat:no-repeat; 
+  background-repeat: no-repeat;
 }
-  

@@ -4,10 +4,8 @@ import { NavLink, Link } from "react-router-dom";
 
 const Header = () => {
   return (
-
     <Segment inverted>
       <Menu inverted secondary>
-     
         <Menu.Item
           id="header"
           name="My Portfolio"
