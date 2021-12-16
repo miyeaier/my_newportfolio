@@ -7,9 +7,8 @@ const About = () => {
         About Me
       </Header>
       <Image
-        src="https://github.com/miyeaier/my_newportfolio/blob/main/IMG/Cv.jpg?raw=true"
+        src="https://github.com/miyeaier/my_newportfolio/blob/main/IMG/contact.jpg?raw=true"
         as="a"
-        size="medium"
         href="https://www.linkedin.com/in/miyesier-kaerman-257494136/"
         target="_blank"
       />
